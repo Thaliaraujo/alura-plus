@@ -13,6 +13,15 @@
 
 <br><br>
 
+#### OBS: O projeto não está 100% responsivo. Estou me aperfeiçoando para implementar a responsividade e melhorar a experiência do usuário.
+
+<br>
+
+### Visite o projeto: 
+https://thaliaraujo.github.io/alura-plus/
+
+<br>
+
 <p>
 <img align="center" width="800px" style="margin-top:-20px" src="https://github.com/Thaliaraujo/alura-plus/blob/main/assets/aluraplus.png">
 </p>
